@@ -66,7 +66,7 @@ I believe in writing **clean, maintainable code** and continuously learning to k
 ---
 
 ## 🎓 Education
-- (BCS) | Bachelors of computer science , sir syed university of engineering & technology , karachi pakista
+- (BCS) | Bachelors of computer science, sir syed university of engineering & technology, karachi pakista
 ---
 
 ## 📜 Certifications
