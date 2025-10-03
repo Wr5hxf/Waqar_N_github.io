@@ -1,5 +1,5 @@
 ---
-title: "Waqar Ali – AI & Machine Learning "
+title: "Waqar Ali – AI & data scientis"
 layout: default
 ---
 
@@ -7,7 +7,6 @@ layout: default
   <div class="profile-card">
     <img src="{{ '/dp.jpg' | relative_url }}" alt="Waqar Ali" class="profile-pic"/>
     <h1>Waqar Ali</h1>
-    <p class="tagline">AI & Machine Learning Engineer</p>
   </div>
 </section>
 
@@ -68,8 +67,8 @@ I believe in writing **clean, maintainable code** and continuously learning to k
 ---
 
 ## 🎓 Education
- - (BCS) | Bachelors of computer science
-  - sir syed university of engineering & technology , karachi pakista
+- (BCS) | Bachelors of computer science
+- sir syed university of engineering & technology , karachi pakista
 ---
 
 ## 📜 Certifications
