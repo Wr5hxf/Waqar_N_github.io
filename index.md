@@ -5,7 +5,7 @@ layout: default
 
 <section class="hero">
   <div class="profile-card">
-    <img src="{{ '/assets/img/dp.jpg' | relative_url }}" class="profile-pic" alt="Waqar Ali"/>
+    <img src="{{ '/assets/img/dp.jpg' | relative_url }}" class="profile-pic" alt="dp.jpg"/>
     <h1>Waqar Ali</h1>
     <p class="tagline">AI & Machine Learning Engineer</p>
   </div>
@@ -69,7 +69,7 @@ I believe in writing **clean, maintainable code** and continuously learning to k
 
 ## 🎓 Education
  - (BCS) | Bachelors of computer science
-   sir syed university of engineering & technology , karachi pakista
+  - sir syed university of engineering & technology , karachi pakista
 ---
 
 ## 📜 Certifications
