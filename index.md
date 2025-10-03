@@ -6,7 +6,6 @@ layout: default
 <section class="hero">
   <div class="profile-card">
     <img src="{{ '/dp.jpg' | relative_url }}" alt="Waqar Ali" class="profile-pic"/>
-    <h1>Waqar Ali</h1>
   </div>
 </section>
 
@@ -67,8 +66,7 @@ I believe in writing **clean, maintainable code** and continuously learning to k
 ---
 
 ## 🎓 Education
-- (BCS) | Bachelors of computer science
-- sir syed university of engineering & technology , karachi pakista
+- (BCS) | Bachelors of computer science , sir syed university of engineering & technology , karachi pakista
 ---
 
 ## 📜 Certifications
