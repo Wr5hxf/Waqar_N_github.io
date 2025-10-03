@@ -5,7 +5,7 @@ layout: default
 
 <section class="hero">
   <div class="profile-card">
-    <img src="{{ '/assets/img/dp.jpg' | relative_url }}" class="profile-pic" alt="dp.jpg"/>
+     <img src="/assets/img/dp.jpg" alt="Waqar Ali" class="profile-pic" />
     <h1>Waqar Ali</h1>
     <p class="tagline">AI & Machine Learning Engineer</p>
   </div>
