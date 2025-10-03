@@ -46,28 +46,28 @@ I believe in writing **clean, maintainable code** and continuously learning to k
 
 ---
 
-## 💼 Selected Projects
-
 ### 🔹 Uber Data Analysis
 - Explored ride-hailing data using Python (Pandas, Matplotlib, Seaborn)  
-- Generated actionable insights and visual dashboards
-- link : https://github.com/Wr5hxf/Ride-Hailing-Services-Usage-User-Experience-Analysis
+- Generated actionable insights and visual dashboards  
+- 🔗 [View Project](https://github.com/Wr5hxf/Ride-Hailing-Services-Usage-User-Experience-Analysis)
 
 ### 🔹 Fraud Detection ML Model
 - Developed and optimized classification models using scikit-learn  
-- Implemented feature selection and hyperparameter tuning
-- link : https://github.com/Wr5hxf/Financial-Transactions-Fraud-Detection
+- Implemented feature selection and hyperparameter tuning  
+- 🔗 [View Project](https://github.com/Wr5hxf/Financial-Transactions-Fraud-Detection)
 
 ### 🔹 AI Portfolio Website
 - Built a personal portfolio with React and Flask  
-- Showcased AI/ML projects and skills for recruiters and collaborators
-- link :
+- Showcased AI/ML projects and skills for recruiters and collaborators  
+- 🔗 [Coming Soon]()
 
 ---
 
 ## 🎓 Education
-- (BCS) | Bachelors of computer science, sir syed university of engineering & technology, karachi pakista
----
+
+- **(BCS)** | Bachelors of Computer Science  
+  Sir Syed University of Engineering & Technology, Karachi, Pakistan
+
 
 ## 📜 Certifications
 
@@ -79,10 +79,9 @@ I believe in writing **clean, maintainable code** and continuously learning to k
 
 ## 📬 Connect with Me
 
-- 📧 Email: [waqarnaih83@gmail.com]  
-- 🔗 LinkedIn: [https://www.linkedin.com/in/waqar-ali-bb45b1246/]  
-- 💻 GitHub: [https://github.com/Wr5hxf/Waqar_N_github.io/edit/main/README.md#ai--machine-learning]
+- 📧 Email: [waqarnaih83@gmail.com](mailto:waqarnaih83@gmail.com)  
+- 🔗 LinkedIn: [Waqar Ali](https://www.linkedin.com/in/waqar-ali-bb45b1246/)  
+- 💻 GitHub: [My GitHub Portfolio](https://github.com/Wr5hxf/Waqar_N_github.io)
 
----
 
 Thank you for visiting! Explore my repositories to see AI & Machine Learning projects in action. Reach out to collaborate or connect.
