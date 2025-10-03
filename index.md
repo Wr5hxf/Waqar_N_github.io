@@ -1,5 +1,5 @@
 ---
-title: "Waqar Ali – AI & Machine Learning Engineer"
+title: "Waqar Ali – AI & Machine Learning "
 layout: default
 ---
 
@@ -11,7 +11,22 @@ layout: default
   </div>
 </section>
 
-<section id="about" class="container">
+## About Me  
+
+I am an **AI & Machine Learning Engineer** with a strong passion for turning raw data into actionable intelligence.  
+My work bridges the gap between **data science, machine learning, and software engineering**, allowing me to design scalable AI solutions that solve real-world problems.  
+
+- Experienced in **data preprocessing, statistical analysis, and predictive modeling**  
+- Skilled in building **end-to-end ML pipelines** from data cleaning to deployment  
+- Strong understanding of **deep learning** and **NLP techniques** for modern AI applications  
+- Comfortable with **Python, SQL, TensorFlow, scikit-learn, and Flask** for creating intelligent systems  
+- Enthusiastic about applying **data-driven insights** to industries like finance, healthcare, and smart technologies  
+
+I believe in writing **clean, maintainable code** and continuously learning to keep pace with evolving AI technologies.  
+
+
+---
+
 ## 👤 Profile Summary
 
 - AI & ML Engineer with hands-on experience in Python, TensorFlow, scikit-learn, and SQL  
@@ -19,9 +34,9 @@ layout: default
 - Experienced in data preprocessing, feature engineering, and automation  
 - Integrated ML solutions with web frontends (React) and backend systems (Flask)  
 - Passionate about applying AI & ML to optimize processes and drive insights
-</section>
 
-<section id="skills" class="container">
+---
+
 ## 🧠 Key Skills
 
 **Programming:** Python, SQL  
@@ -29,36 +44,48 @@ layout: default
 **Data Visualization:** Matplotlib, Seaborn, Plotly, Jupyter Notebook  
 **Web Development:** React, Flask  
 **Version Control:** Git, GitHub  
-</section>
+**Cloud (Optional):** GCP / AWS basics
 
-<section id="projects" class="container">
+---
+
 ## 💼 Selected Projects
 
-### 🔹 [Uber Data Analysis](https://github.com/Wr5hxf/Ride-Hailing-Services-Usage-User-Experience-Analysis)
-Explored ride-hailing data using Python (Pandas, Matplotlib, Seaborn) — generated actionable insights and visual dashboards.
+### 🔹 Uber Data Analysis
+- Explored ride-hailing data using Python (Pandas, Matplotlib, Seaborn)  
+- Generated actionable insights and visual dashboards
+- link : https://github.com/Wr5hxf/Ride-Hailing-Services-Usage-User-Experience-Analysis
 
-### 🔹 [Fraud Detection ML Model](https://github.com/Wr5hxf/Financial-Transactions-Fraud-Detection)
-Developed and optimized classification models using scikit-learn with feature selection and hyperparameter tuning.
+### 🔹 Fraud Detection ML Model
+- Developed and optimized classification models using scikit-learn  
+- Implemented feature selection and hyperparameter tuning
+- link : https://github.com/Wr5hxf/Financial-Transactions-Fraud-Detection
 
 ### 🔹 AI Portfolio Website
-Built a personal portfolio with React and Flask to showcase AI/ML projects and skills for recruiters and collaborators.
-</section>
+- Built a personal portfolio with React and Flask  
+- Showcased AI/ML projects and skills for recruiters and collaborators
+- link :
 
-<section id="education" class="container">
+---
+
 ## 🎓 Education
-- **BCS** | Bachelors of Computer Science  
-- Sir Syed University of Engineering & Technology, Karachi, Pakistan
-</section>
+ - (BCS) | Bachelors of computer science
+ - sir syed university of engineering & technology , karachi pakista
+---
 
-<section id="certs" class="container">
 ## 📜 Certifications
-- Certificate of Recognition – NUST (Team MedAssist, Smart Home Healthcare Platform)  
-- Optional: Coursera / Udemy AI & ML courses
-</section>
 
-<section id="contact" class="container">
+- Certificate of Recognition – NUST | Certificate of Recognition – NUST
+- Contributed as part of Team MedAssist in creating a smart home healthcare platform connecting patients with certified professional
+- Optional: Coursera / Udemy AI & ML courses
+
+---
+
 ## 📬 Connect with Me
-- 📧 Email: <a href="mailto:waqarnaih83@gmail.com">waqarnaih83@gmail.com</a>  
-- 🔗 LinkedIn: <a href="https://www.linkedin.com/in/waqar-ali-bb45b1246/">https://www.linkedin.com/in/waqar-ali-bb45b1246/</a>  
-- 💻 GitHub: <a href="https://github.com/Wr5hxf">https://github.com/Wr5hxf</a>
-</section>
+
+- 📧 Email: [waqarnaih83@gmail.com]  
+- 🔗 LinkedIn: [https://www.linkedin.com/in/waqar-ali-bb45b1246/]  
+- 💻 GitHub: [https://github.com/Wr5hxf/Waqar_N_github.io/edit/main/README.md#ai--machine-learning]
+
+---
+
+Thank you for visiting! Explore my repositories to see AI & Machine Learning projects in action. Reach out to collaborate or connect.
